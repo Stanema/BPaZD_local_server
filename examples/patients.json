@@ -1,0 +1,5 @@
+[
+  {"resourceType":"Patient","id":"synthetic-001","active":true,"name":[{"family":"Novak-Demo","given":["Adam"]}],"gender":"male","birthDate":"1988-04-12"},
+  {"resourceType":"Patient","id":"synthetic-002","active":true,"name":[{"family":"Svobodova-Demo","given":["Eva"]}],"gender":"female","birthDate":"1995-09-23"},
+  {"resourceType":"Patient","id":"synthetic-003","active":true,"name":[{"family":"Dvorak-Demo","given":["Petr"]}],"gender":"male","birthDate":"1972-01-08"}
+]

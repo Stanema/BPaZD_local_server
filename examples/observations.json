@@ -1,0 +1,4 @@
+[
+  {"resourceType":"Observation","id":"heart-rate-001","status":"final","code":{"coding":[{"system":"http://loinc.org","code":"8867-4","display":"Heart rate"}]},"subject":{"reference":"Patient/synthetic-001"},"valueQuantity":{"value":72,"unit":"beats/minute","system":"http://unitsofmeasure.org","code":"/min"}},
+  {"resourceType":"Observation","id":"temperature-001","status":"final","code":{"coding":[{"system":"http://loinc.org","code":"8310-5","display":"Body temperature"}]},"subject":{"reference":"Patient/synthetic-002"},"valueQuantity":{"value":36.7,"unit":"degree Celsius","system":"http://unitsofmeasure.org","code":"Cel"}}
+]
